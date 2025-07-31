@@ -1,3 +1,8 @@
 [submodule "leetcode"]
 	path = leetcode
 	url = https://github.com/Y-1huadb/leetcode.git
+	branch = main
+[submodule "Deeplearing"]
+	path = Deeplearing
+	url = https://github.com/Y-1huadb/Deeplearning_Pytorch.git
+	branch = main

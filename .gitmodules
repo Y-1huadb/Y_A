@@ -6,3 +6,7 @@
 	path = Deeplearing
 	url = https://github.com/Y-1huadb/Deeplearning_Pytorch.git
 	branch = main
+[submodule "Software_Engineering/Project"]
+	path = Software_Engineering/Project
+	url = https://github.com/sustech-cs304/team-project-25spring-15.git
+	branch = dev

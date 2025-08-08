@@ -18,11 +18,11 @@
 	path = Computer_Organization
 	url = https://github.com/lxy-quantum/SUSTech-CS202-Pipelined-CPU.git
 	branch = main
-[submodule "Operating_System"]
-	path = Operating_System
-	url = https://github.com/fest6/os-project.git
-	branch = signals-dev
 [submodule "OOAD"]
 	path = OOAD
 	url = https://github.com/Delta0019/SUSTech-OOAD-CourseLightHouse.git
 	branch = main
+[submodule "Operating_System"]
+	path = Operating_System
+	url = https://github.com/fest6/os-project.git
+	branch = signals-dev

@@ -10,3 +10,11 @@
 	path = Software_Engineering/Project
 	url = https://github.com/sustech-cs304/team-project-25spring-15.git
 	branch = dev
+[submodule "Parallel_Computing"]
+	path = Parallel_Computing
+	url = https://github.com/Y-1huadb/CS149_Parallel_Computing.git
+	branch = main
+[submodule "Computer_Organization"]
+	path = Computer_Organization
+	url = https://github.com/lxy-quantum/SUSTech-CS202-Pipelined-CPU.git
+	branch = main
